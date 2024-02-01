@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/dickeylth"><img src="https://api.daily.dev/devcards/ef71657d1d9642a58185a482aaf58768.png?r=uvq" width="400" alt="弘树@阿里's Dev Card"/></a>
+<a href="https://app.daily.dev/dickeylth"><img src="https://api.daily.dev/devcards/ef71657d1d9642a58185a482aaf58768.png?r=uvq" width="200" alt="弘树@阿里's Dev Card"/></a>
 
 <!--
 **dickeylth/dickeylth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
